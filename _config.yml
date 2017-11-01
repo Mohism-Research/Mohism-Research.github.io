@@ -6,7 +6,7 @@
 name: Mohism Research
 
 # Short bio or description (displayed in the header)
-description: Technology and Immortalization
+description: Technologies and Immortalization
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/Mohism-Research/Mohism-Research.github.io/blob/master/images/mohism.jpeg
@@ -40,7 +40,7 @@ disqus: xuchenyu
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feeds
+# Used for Sitemap.xml and your RSS feed
 url:
 
 # If you're hosting your site at a Project repository on GitHub pages
@@ -84,4 +84,4 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-- CNAME
+  - CNAME
