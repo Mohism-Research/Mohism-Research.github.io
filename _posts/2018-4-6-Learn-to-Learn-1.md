@@ -3,6 +3,8 @@ layout: post
 title: Learning how to learn 1
 ---
 
+This is the first post note from learning the course "Learning-how-to-learn". What is the fundamental principle of this universe? Some think theoretical physics has the chance to explain the ultimate problems,  but other argues that the researching activity of these final issues happens in the brain of advanced intelligent lives, such as, human. We still don't know the exact anwser, but the brain science is very important for learning efficiently. Therefore the course named "Learning how to learn" is about the brain science or neural science.
+
 # 1.1 Focused mode and Diffuse mode
 
 Our brains have two modes, one is called the focus mode, the other one is called the diffuse mode. When we want to concentrate on some tough tasks, we are in the focus mode. But when we do some relaxing things, such as hiking, listening to music, we are in the diffuse mode. The focus mode made us to complete the complicated and specific tasks, but innovative thinking is easily required in the diffuse mode. The reason is behind our brains.
